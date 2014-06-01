@@ -8,6 +8,6 @@
 
 3. yeelink.sh is a script to upload data to yeelink.net. fill in your only api-key and url
 
-see details:
+###see details:
 
     http://cxh.me/2014/05/25/pi-temperature-sensor/
