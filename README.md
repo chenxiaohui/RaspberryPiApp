@@ -10,4 +10,4 @@
 
 ###see details:
 
-    <http://cxh.me/2014/05/25/pi-temperature-sensor/>
+<http://cxh.me/2014/05/25/pi-temperature-sensor/>
